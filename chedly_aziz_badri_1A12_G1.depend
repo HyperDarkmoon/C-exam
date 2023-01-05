@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672954446 source:c:\users\asus\desktop\chedly_aziz_badri_1a12_g1\fonction.c
+	"prototype.h"
+
+1672917843 c:\users\asus\desktop\chedly_aziz_badri_1a12_g1\prototype.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672953906 source:c:\users\asus\desktop\chedly_aziz_badri_1a12_g1\main.c
+	"prototype.h"
+
